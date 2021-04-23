@@ -1747,6 +1747,10 @@
 		font-size: 1.35em;
 	}
 
+        header.major h3 a:visited {
+            color: #4682b4;
+        }
+
 /* Form */
 
 	form {
