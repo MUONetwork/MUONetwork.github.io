@@ -1742,6 +1742,11 @@
 			margin-top: -0.75em;
 		}
 
+    header.major h3 {
+		color: #4682b4;
+		font-size: 1.35em;
+	}
+
 /* Form */
 
 	form {
